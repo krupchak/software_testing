@@ -3,6 +3,14 @@ package org.example;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
+/*
+@author   $Krupchak_Anastasia
+@project   $Integer_To_Roman
+@class  $444A
+@version  1.0.0
+@since 19.10.2024 - 19.00
+*/
+
 public class Convert_NumberTest {
 
     @Test
